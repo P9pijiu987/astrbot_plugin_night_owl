@@ -1,0 +1,7 @@
+name: astrbot_plugin_night_owl
+display_name: 熬夜大王
+desc: 每天当地日出时，在各群公布凌晨最后一位发消息的群友。
+version: v1.0.0
+author: P9pijiu987
+repo: https://github.com/P9pijiu987/astrbot_plugin_night_owl
+astrbot_version: ">=4.9.2,<5"

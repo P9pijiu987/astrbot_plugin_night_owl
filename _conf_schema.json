@@ -1,0 +1,20 @@
+{
+  "timezone": {
+    "description": "评选时区",
+    "type": "string",
+    "default": "Asia/Taipei",
+    "hint": "填写地点对应的 IANA 时区，例如 Asia/Taipei、Asia/Shanghai 或 America/Los_Angeles。"
+  },
+  "latitude": {
+    "description": "日出地点纬度",
+    "type": "float",
+    "default": 25.033,
+    "hint": "北纬为正，南纬为负。默认是台北。"
+  },
+  "longitude": {
+    "description": "日出地点经度",
+    "type": "float",
+    "default": 121.5654,
+    "hint": "东经为正，西经为负。默认是台北。"
+  }
+}
